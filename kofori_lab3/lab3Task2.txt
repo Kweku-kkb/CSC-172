@@ -1,0 +1,12 @@
+Name: Kweku Ofori
+Partner: None
+
+Email: kofori@u.rochester.edu
+Cell: 914-514-5444
+Class: CSC 172 - Data Structures & Algorithms
+Lab Number and Section: Mon/Wed 9:00-10:15 AM
+
+The purpose of the task is to sum up elements in an array and ArrayList from left, right up or down and print the sum of the previous elements in the ith position 
+
+I created 3 methods, one main method which calls the array and arraylist functions to print. 
+The array and arraylist methods both loop through and sum up elements. I had to create an arraylist and add it to my main arraylist.

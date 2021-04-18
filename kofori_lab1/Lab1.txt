@@ -1,0 +1,6 @@
+Name: Kweku Ofori
+Partner: None
+Class: CSC 172 - Data Structures & Algorithms
+Lab Number and Section: Mon/Wed 9:00-10:15AM
+
+Zip file includes readme and one java file containing the methods for the isAnagram and isRotation and a main method that calls the method

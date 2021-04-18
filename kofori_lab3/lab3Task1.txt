@@ -1,0 +1,12 @@
+Name: Kweku Ofori
+Partner: None
+
+Email: kofori@u.rochester.edu
+Cell: 914-514-5444
+Class: CSC 172 - Data Structures & Algorithms
+Lab Number and Section: Mon/Wed 9:00-10:15 AM
+
+The purpose of the task is to print a 4*4 2D from elements in a set ended in a set in a 4*4 matrix form. 
+
+I created 3 methods, one main method which calls the array and arraylist functions to print. 
+The array and arraylist methods both loop through the set of elements and prints the positions according to the columns and rows. 
